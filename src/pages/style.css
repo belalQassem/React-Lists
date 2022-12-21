@@ -1,0 +1,10 @@
+.counters {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 300px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 150px auto;
+}
+
